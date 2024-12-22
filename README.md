@@ -45,7 +45,6 @@ Eğitim setinin çeşitliliğini artırmak için aşağıdaki teknikler kullanı
 - **Loss Function**: Categorical Crossentropy
 - **Eğitim Süreci**:
   - Epoch: 20
-  - Batch Size: 32
   - Early Stopping kullanılarak en iyi ağırlıkların korunması sağlandı.
 
 ---
