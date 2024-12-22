@@ -72,8 +72,6 @@ Eğitim setinin çeşitliliğini artırmak için aşağıdaki teknikler kullanı
 
 
 ## **Grafiklerle Eğitim Süreci**
-![Doğruluk ve Kayıp Grafikleri](path/to/accuracy_loss_graph.png)
-
 Bu grafikler, modelin eğitim ve doğrulama doğruluğu ile kaybını göstermektedir.
 
 - **Doğruluk (Accuracy)**:
